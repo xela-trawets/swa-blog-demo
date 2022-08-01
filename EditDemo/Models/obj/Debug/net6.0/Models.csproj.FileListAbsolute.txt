@@ -13,3 +13,15 @@
 /Users/stacycashmore/code/github/swa-blog-demo/EditDemo/Api/bin/output/Models.deps.json
 /Users/stacycashmore/code/github/swa-blog-demo/EditDemo/Api/bin/output/Models.dll
 /Users/stacycashmore/code/github/swa-blog-demo/EditDemo/Api/bin/output/Models.pdb
+C:\Users\AlexA\Source\Repos\swa-blog-demo\EditDemo\Models\bin\Debug\net6.0\Models.deps.json
+C:\Users\AlexA\Source\Repos\swa-blog-demo\EditDemo\Models\bin\Debug\net6.0\Models.dll
+C:\Users\AlexA\Source\Repos\swa-blog-demo\EditDemo\Models\bin\Debug\net6.0\Models.pdb
+C:\Users\AlexA\Source\Repos\swa-blog-demo\EditDemo\Models\obj\Debug\net6.0\Models.csproj.AssemblyReference.cache
+C:\Users\AlexA\Source\Repos\swa-blog-demo\EditDemo\Models\obj\Debug\net6.0\Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AlexA\Source\Repos\swa-blog-demo\EditDemo\Models\obj\Debug\net6.0\Models.AssemblyInfoInputs.cache
+C:\Users\AlexA\Source\Repos\swa-blog-demo\EditDemo\Models\obj\Debug\net6.0\Models.AssemblyInfo.cs
+C:\Users\AlexA\Source\Repos\swa-blog-demo\EditDemo\Models\obj\Debug\net6.0\Models.csproj.CoreCompileInputs.cache
+C:\Users\AlexA\Source\Repos\swa-blog-demo\EditDemo\Models\obj\Debug\net6.0\Models.dll
+C:\Users\AlexA\Source\Repos\swa-blog-demo\EditDemo\Models\obj\Debug\net6.0\refint\Models.dll
+C:\Users\AlexA\Source\Repos\swa-blog-demo\EditDemo\Models\obj\Debug\net6.0\Models.pdb
+C:\Users\AlexA\Source\Repos\swa-blog-demo\EditDemo\Models\obj\Debug\net6.0\ref\Models.dll

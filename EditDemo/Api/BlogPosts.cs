@@ -23,6 +23,23 @@ public static class BlogPosts
     public static IActionResult GetAllBlogPosts(
         [HttpTrigger(AuthorizationLevel.Anonymous,
             "get", Route = "blogposts")] HttpRequest req,
+        ILogger log)
+    {
+        DateTime now = DateTime.UtcNow;
+        IEnumerable<BlogPost> blogPosts = new List<BlogPost> {
+           new BlogPost { Id = Guid.NewGuid(),
+               Title = "Coool",
+               Author = " miranda",
+               PublishedDate = now,
+               Tags = new[] {" " },
+    BlogPostMarkdown = "H1 text",
+    PreviewIsComplete = true,
+}};
+        return new OkObjectResult(blogPosts);
+    }
+    public static IActionResult GetAllBlogPostsOld(
+        [HttpTrigger(AuthorizationLevel.Anonymous,
+            "get", Route = "blogposts")] HttpRequest req,
         [CosmosDB("SwaBlog", "BlogContainer",
             Connection = "CosmosDbConnectionString",
             SqlQuery = @"
